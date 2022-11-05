@@ -2,7 +2,7 @@
 package Lista_ES;
 
 public class Lista {
-    private Nodo primero;
+     private Nodo primero;
     private Nodo ultimo;
     private int tamaño;
 

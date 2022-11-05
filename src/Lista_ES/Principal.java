@@ -4,8 +4,7 @@ package Lista_ES;
 public class Principal {
 
     public static void main(String[] args) {
-          
-        Lista lista1 = new Lista();
+           Lista lista1 = new Lista();
         lista1.Insertar_Inicio(26);
         lista1.Insertar_Inicio(50);
         lista1.Insertar_Inicio(34);

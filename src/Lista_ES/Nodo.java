@@ -2,6 +2,7 @@
 package Lista_ES;
 
 public class Nodo {
+    
     private int dato;
      private Nodo siguiente;
 
@@ -36,3 +37,5 @@ public class Nodo {
         return "Nodo{" + "dato=" + dato + ", siguiente=" + siguiente + '}';
     }
 }
+
+
